@@ -3,6 +3,9 @@
 <h3 align="center">Computer science student from MIPT</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Troll0ton&theme=chalk)](https://github.com/Troll0ton/github-profile-trophy)
+
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Troll0ton&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Troll0ton&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Troll0ton&theme=solarized_dark)
