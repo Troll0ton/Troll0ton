@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Troll0tontheme=chalk)](https://github.com/Troll0ton/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Troll0ton&theme=chalk)](https://github.com/Troll0ton/github-profile-trophy)
 <!--
 **Troll0ton/Troll0ton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
