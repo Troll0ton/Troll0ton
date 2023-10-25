@@ -7,7 +7,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Troll0ton&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Troll0ton&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troll0ton&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Troll0ton&theme=solarized_dark)
 <!--
 **Troll0ton/Troll0ton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Troll0ton&theme=chalk)](https://github.com/Troll0ton/github-profile-trophy)
